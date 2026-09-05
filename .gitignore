@@ -1,0 +1,29 @@
+# Сборка
+[Bb]in/
+[Oo]bj/
+FodyWeavers.xsd
+*.dll
+*.pdb
+*.user
+*.suo
+
+# Сборки Revit API лежат в репозитории намеренно, под общее правило *.dll не попадают
+!RevitApi/**/*.dll
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet
+packages/
+*.nupkg
+
+# Прочее
+*.log
+Thumbs.db
