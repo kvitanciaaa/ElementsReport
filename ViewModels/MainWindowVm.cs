@@ -2,7 +2,7 @@
 
 namespace dLab.General.ElementsReport.ViewModels;
 
-using Autodesk.Revit.DB;
+
 using dLab.General.ElementsReport.Abstractions;
 using dLab.General.ElementsReport.Commands;
 using dLab.General.ElementsReport.Models;

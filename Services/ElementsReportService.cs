@@ -12,10 +12,6 @@ using dLab.General.ElementsReport.Models;
 /// <inheritdoc />
 public class ElementsReportService : IElementsReportService
 {
-    /// <summary>
-    /// Категория элементов, попадающих в ведомость.
-    /// </summary>
-    
 
     /// <summary>
     /// Документ, по которому строится ведомость.
